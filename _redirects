@@ -1,0 +1,3 @@
+# Paquera — Redirecionamentos Cloudflare
+# SPA fallback: rotas não encontradas vão para index.html
+/*    /index.html   404
